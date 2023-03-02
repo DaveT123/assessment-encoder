@@ -7,7 +7,7 @@ public class Main {
 
         // encode text
         // for this implementation, offset char is included as first element in the input string
-        String encodedText = demo.encode("BHELLO WORLD");
+        String encodedText = demo.encode("FHELLO WORLD");
         System.out.println(encodedText);
 
         // decode text
